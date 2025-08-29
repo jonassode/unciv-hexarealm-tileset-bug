@@ -1,5 +1,5 @@
 tilesets-hexarealm.png
-size: 64, 1008
+size: 64, 1344
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -108,23 +108,65 @@ TileSets/HexaRealm/Tiles/ForestPH
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland
+TileSets/HexaRealm/Tiles/Grassland+Hill
   rotate: false
   xy: 0, 840
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland2
+TileSets/HexaRealm/Tiles/Grassland+Hill2
   rotate: false
   xy: 0, 896
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland3
+TileSets/HexaRealm/Tiles/Grassland
   rotate: false
   xy: 0, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Grassland2
+  rotate: false
+  xy: 0, 1008
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Grassland3
+  rotate: false
+  xy: 0, 1064
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/JungleG
+  rotate: false
+  xy: 0, 1120
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/JungleP
+  rotate: false
+  xy: 0, 1176
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Lakes
+  rotate: false
+  xy: 0, 1232
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Marsh
+  rotate: false
+  xy: 0, 1288
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

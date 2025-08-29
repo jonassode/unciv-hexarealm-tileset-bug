@@ -1,32 +1,130 @@
 tilesets-hexarealm.png
-size: 64, 224
+size: 64, 1008
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/HexaRealm/Tiles/Canal
+TileSets/HexaRealm/Tiles/Atoll
   rotate: false
   xy: 0, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland
+TileSets/HexaRealm/Tiles/Barbarian encampment
   rotate: false
   xy: 0, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland2
+TileSets/HexaRealm/Tiles/Barbarian encampmentT
   rotate: false
   xy: 0, 112
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland3
+TileSets/HexaRealm/Tiles/Canal
   rotate: false
   xy: 0, 168
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/City center
+  rotate: false
+  xy: 0, 224
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Desert+Hill
+  rotate: false
+  xy: 0, 280
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Desert+Hill2
+  rotate: false
+  xy: 0, 336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Desert
+  rotate: false
+  xy: 0, 392
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Desert2
+  rotate: false
+  xy: 0, 448
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Desert3
+  rotate: false
+  xy: 0, 504
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Flood plains
+  rotate: false
+  xy: 0, 560
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/ForestG
+  rotate: false
+  xy: 0, 616
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/ForestGH
+  rotate: false
+  xy: 0, 672
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/ForestP
+  rotate: false
+  xy: 0, 728
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/ForestPH
+  rotate: false
+  xy: 0, 784
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Grassland
+  rotate: false
+  xy: 0, 840
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Grassland2
+  rotate: false
+  xy: 0, 896
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Grassland3
+  rotate: false
+  xy: 0, 952
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
